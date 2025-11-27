@@ -9,7 +9,7 @@
 
 ### 🧰 Tech Stack
 Python · Pandas · NumPy · Scikit-learn · Matplotlib · SQL · MongoDB  
-Git · GitHub · WordPress · Canva · Adobe Illustrator
+Git · GitHub · WordPress · Canva · Adobe 
 
 ---
 
