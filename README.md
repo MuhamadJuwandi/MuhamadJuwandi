@@ -8,8 +8,9 @@
 ---
 
 ### 🧰 Tech Stack
-Python · Pandas · NumPy · Scikit-learn · Matplotlib · SQL · MongoDB  
-Git · GitHub · WordPress · Canva · Adobe 
+Python · Javascript · Pandas · NumPy · Scikit-learn · Matplotlib · SQL · MongoDB  
+Git · GitHub · WordPress · Canva · Adobe
+ 
 
 ---
 
