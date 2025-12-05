@@ -15,8 +15,12 @@ Git · GitHub · WordPress · Canva · Adobe
 ---
 
 ### 📊 GitHub Statistics
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhamadJuwandi&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhamadJuwandi&show_icons=true)
+<p align="left">
+<a href="https://github.com/MuhamadJuwandi">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MuhamadJuwandi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhamadJuwandi&layout=compact&langs_count=7&theme=tokyonight"/>
+</a>
+</p>
 
 ---
 
