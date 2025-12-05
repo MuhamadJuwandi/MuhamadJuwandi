@@ -32,6 +32,6 @@ GitHubでは学習プロジェクトや分析結果を公開しています。
 ---
 
 ### 📬 Contact
-- [LinkedIn](www.linkedin.com/in/muhamadjuwandi)
-- [Portfolio Website](https://keunal.id)
-- [Email](mailto:muhamadjuwandi28@gmail.com)
+- [LinkedIn]([www.linkedin.com/in/muhamadjuwandi])
+- [Portfolio Website]([https://keunal.id])
+- [Email]([mailto:muhamadjuwandi28@gmail.com])
