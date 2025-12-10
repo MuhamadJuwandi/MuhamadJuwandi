@@ -57,16 +57,16 @@ Hi, I'm Juwandi! I bridge the gap between **Data Science** and **Visual Design**
 
 ### 📊 GitHub Analytics
 
-<p align="center">
-  <a href="https://github.com/MuhamadJuwandi">
-    <img src="https://streak-stats.demolab.com?user=MuhamadJuwandi&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="160">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/MuhamadJuwandi">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhamadJuwandi&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Top Languages" height="160">
-  </a>
-</p>
+### 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MuhamadJuwandi&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhamadJuwandi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="MuhamadJuwandi's Github Stats" width="400" />
+  
+  <br><br>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhamadJuwandi&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Top Languages" width="400" />
+  
+  <br><br>
+
+  <img src="https://komarev.com/ghpvc/?username=MuhamadJuwandi&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</div>
