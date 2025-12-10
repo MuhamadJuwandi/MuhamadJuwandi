@@ -51,7 +51,7 @@ Hi, I'm Juwandi! I bridge the gap between **Data Science** and **Visual Design**
 | 🧠 **Data Science Portfolio** | 🎨 **Creative Works** |
 | :--- | :--- |
 | A comprehensive collection of Data Analysis, Machine Learning, and NLP projects complete with technical documentation and Jupyter Notebooks. | Graphic Design Portfolio, Web Development projects (Keunal.id), and high-engagement social media content creation. |
-| [➡️ **View Projects**](https://github.com/MuhamadJuwandi/data-science-portfolio) | [➡️ **View Designs**](https://github.com/MuhamadJuwandi/creative-works-and-web) |
+| [➡️ **View Projects**](https://github.com/MuhamadJuwandi/data-science-portfolio) | [➡️ **View Designs**](https://github.com/MuhamadJuwandi/data-science-portfolio/creative-works-and-web) |
 
 ---
 
