@@ -56,18 +56,23 @@ Hi, I'm Juwandi! I bridge the gap between **Data Science** and **Visual Design**
 ---
 
 ### 📊 GitHub Analytics
+
 <div align="center">
+
+  <!-- Streak Stats -->
   <a href="https://github.com/MuhamadJuwandi">
-    <img src="https://github-readme-stats.vercel.app/api?username=MuhamadJuwandi&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="GitHub Stats" />
-    
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhamadJuwandi&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" height="160" alt="Top Languages" />
+    <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhamadJuwandi&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
   </a>
-</div>
-<br>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=MuhamadJuwandi&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  &nbsp;&nbsp;
+  <!-- Top Languages -->
+  <a href="https://github.com/MuhamadJuwandi">
+    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhamadJuwandi&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  </a>
+
+  <br><br>
+
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=MuhamadJuwandi&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </div>
 
-
-  </table>
 </div>
