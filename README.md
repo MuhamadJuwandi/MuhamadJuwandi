@@ -41,8 +41,7 @@ Hi, I'm Juwandi! I bridge the gap between **Data Science** and **Visual Design**
 
 | **🧠 Data Science & Development** | **🎨 Creative & Design Tools** |
 | :--- | :--- |
-| **Languages:**<br><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/R_Studio-276DC3?style=flat-square&logo=r&logoColor=white"> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"><br>**Libraries & DB:**<br><img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"> <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"> <img src="https://img.shields.io/badge/Generative_AI-Prompting-000000?style=flat-square&logo=openai&logoColor=white"><br><img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"> <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white"> | **Adobe Suite:**<br><img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white"> <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white"> <img src="https://img.shields.io/badge/InDesign-FF3366?style=flat-square&logo=adobeindesign&logoColor=white"><br><img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white"> <img src="https://img.shields.io/badge/Acrobat-DC3E3E?style=flat-square&logo=adobeacrobatreader&logoColor=white"><br>**Other Tools:**<br><img src="https://img.shields.io/badge/Affinity_Designer-1B72BE?style=flat-square&logo=affinitydesigner&logoColor=white"> <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white"> <img src="https://img.shields.io/badge/CapCut-000000?style=flat-square&logo=capcut&logoColor=white"> <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white"> |
-
+| **Languages:**<br><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/R_Studio-276DC3?style=flat-square&logo=r&logoColor=white"> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"><br>**Libraries & DB:**<br><img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"> <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"> <img src="https://img.shields.io/badge/Generative_AI-Prompting-000000?style=flat-square&logo=openai&logoColor=white"><br><img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"> <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white"> | **Adobe Suite:**<br><img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white"> <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white"> <img src="https://img.shields.io/badge/InDesign-FF3366?style=flat-square&logo=adobeindesign&logoColor=white"><br><img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white"> <img src="https://img.shields.io/badge/Acrobat-DC3E3E?style=flat-square&logo=adobeacrobatreader&logoColor=white"><br>**Other Tools:**<br><img src="https://img.shields.io/badge/Affinity_Designer-1B72BE?style=flat-square&logo=affinitydesigner&logoColor=white"> <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white"> <img src="https://img.shields.io/badge/CapCut-000000?style=flat-square&logo=capcut&logoColor=white"> <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white"> |
 </div>
 
 ---
@@ -57,53 +56,18 @@ Hi, I'm Juwandi! I bridge the gap between **Data Science** and **Visual Design**
 ---
 
 ### 📊 GitHub Analytics
-
 <div align="center">
   <a href="https://github.com/MuhamadJuwandi">
-    <img src="https://github-readme-stats.vercel.app/api?username=MuhamadJuwandi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="160"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhamadJuwandi&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" height="160"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=MuhamadJuwandi&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="GitHub Stats" />
+    
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhamadJuwandi&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" height="160" alt="Top Languages" />
   </a>
 </div>
+<br>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=MuhamadJuwandi&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
 
-<br><div align="center">
-  <table border="0">
-    <tr>
-      <th width="50%" align="center">🧠 Data Science & Development</th>
-      <th width="50%" align="center">🎨 Creative & Design Tools</th>
-    </tr>
-    <tr>
-      <td align="center">
-        <b>Languages:</b><br>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-        <img src="https://img.shields.io/badge/R_Studio-276DC3?style=flat-square&logo=r&logoColor=white">
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-        <br><br>
-        <b>Libraries & Tools:</b><br>
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
-        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white">
-        <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white">
-        <img src="https://img.shields.io/badge/Generative_AI-Prompting-000000?style=flat-square&logo=openai&logoColor=white">
-        <br>
-        <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
-        <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white">
-      </td>
-      <td align="center">
-        <b>Adobe Suite:</b><br>
-        <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white">
-        <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white">
-        <img src="https://img.shields.io/badge/InDesign-FF3366?style=flat-square&logo=adobeindesign&logoColor=white">
-        <br>
-        <img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white">
-        <img src="https://img.shields.io/badge/Acrobat-DC3E3E?style=flat-square&logo=adobeacrobatreader&logoColor=white">
-        <br><br>
-        <b>Design Tools:</b><br>
-        <img src="https://img.shields.io/badge/Affinity_Designer-1B72BE?style=flat-square&logo=affinitydesigner&logoColor=white">
-        <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white">
-        <img src="https://img.shields.io/badge/CapCut-000000?style=flat-square&logo=capcut&logoColor=white">
-        <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white">
-      </td>
-    </tr>
+
   </table>
 </div>
