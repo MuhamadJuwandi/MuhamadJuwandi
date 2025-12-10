@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=300&section=header&text=Muhamad%20Juwandi&fontSize=90&fontAlign=50&fontAlignY=35&desc=Data%20Scientist%20%26%20Creative%20Designer&descAlign=50&descAlignY=55&descSize=20&animation=fadeIn" width="100%" alt="Header Banner"/>
+<img src="assets/img/BannerProfile.png" width="100%" alt="Muhamad Juwandi Profile Banner" style="border-radius: 10px;">
 
 ### 🇯🇵 日本のAI企業を目指すデータサイエンティスト志望者
 **Data Science Student | Junior Graphic Designer | Content Creator**
