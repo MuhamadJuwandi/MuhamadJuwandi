@@ -58,9 +58,9 @@ Hi, I'm Juwandi! I bridge the gap between **Data Science** and **Visual Design**
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhamadJuwandi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhamadJuwandi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   
   <br><br>
   
-  <img src="https://github-profile-trophy.vercel.app/?username=MuhamadJuwandi&theme=tokyonight&no-frame=true&row=1" alt="Trophy" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhamadJuwandi&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
