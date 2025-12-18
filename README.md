@@ -56,23 +56,17 @@ Hi, I'm Juwandi! I bridge the gap between **Data Science** and **Visual Design**
 ---
 
 ### 📊 GitHub Analytics
+<div align="center">
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=MuhamadJuwandi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" 
-      height="150" 
-      alt="GitHub Stats" 
-    />
-  </a>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=MuhamadJuwandi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" 
+    height="150"
+  />
 
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img 
-      src="https://streak-stats.demolab.com?user=MuhamadJuwandi&theme=tokyonight&hide_border=true" 
-      height="150" 
-      alt="GitHub Streak" 
-    />
-  </a>
-
+  <img 
+    src="https://streak-stats.demolab.com?user=MuhamadJuwandi&theme=tokyonight&hide_border=true&v=2" 
+    height="150"
+  />
   <br/>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhamadJuwandi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="150" alt="MuhamadJuwandi's Top Languages" />
